@@ -1,0 +1,22 @@
+{
+    "name": "tristan",
+    "displayName": "Tristan Theme",
+    "publisher": "TristanTheme",
+    "description": "Tristan Theme is a good option to have a beautiful theme on your VSCode :)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tristan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tristan-color-theme.json"
+            }
+        ]
+    }
+}
