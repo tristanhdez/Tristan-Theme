@@ -4,7 +4,7 @@
     "publisher": "TristanTheme",
     "description": "Tristan Theme is a good option to have a beautiful theme on your VSCode :)",
     "icon": "images/logo.png",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.58.0"
     },
