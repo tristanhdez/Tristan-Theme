@@ -5,7 +5,7 @@
 
 ## Welcome to Tristan Theme!
 
-![alt text](https://github.com/tristanHdez18/Tristan-Theme/blob/main/images/Logo.png?raw=true)
+![alt text](https://github.com/tristanHdez18/Tristan-Theme/blob/main/images/logo.png?raw=true)
 
 </div>
 
@@ -17,7 +17,7 @@ This is a dark code editor theme with syntax highlight and implemented by Trist√
 
 <div style="text-align:center">
 
-![alt text](https://github.com/tristanHdez18/Tristan-Theme/blob/main/images/Preview.jpeg?raw=true)
+![alt text](https://github.com/tristanHdez18/Tristan-Theme/blob/main/images/preview.jpeg?raw=true)
 
 </div>
 
